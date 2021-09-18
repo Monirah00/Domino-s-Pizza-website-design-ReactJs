@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Domino-s-Pizza-website-design-ReactJs/static/css/main.d3d422b9.chunk.css",
+    "main.js": "/Domino-s-Pizza-website-design-ReactJs/static/js/main.79a2a1dc.chunk.js",
+    "main.js.map": "/Domino-s-Pizza-website-design-ReactJs/static/js/main.79a2a1dc.chunk.js.map",
+    "runtime-main.js": "/Domino-s-Pizza-website-design-ReactJs/static/js/runtime-main.a0955556.js",
+    "runtime-main.js.map": "/Domino-s-Pizza-website-design-ReactJs/static/js/runtime-main.a0955556.js.map",
+    "static/css/2.94d102f3.chunk.css": "/Domino-s-Pizza-website-design-ReactJs/static/css/2.94d102f3.chunk.css",
+    "static/js/2.5667f28b.chunk.js": "/Domino-s-Pizza-website-design-ReactJs/static/js/2.5667f28b.chunk.js",
+    "static/js/2.5667f28b.chunk.js.map": "/Domino-s-Pizza-website-design-ReactJs/static/js/2.5667f28b.chunk.js.map",
+    "index.html": "/Domino-s-Pizza-website-design-ReactJs/index.html",
+    "static/css/2.94d102f3.chunk.css.map": "/Domino-s-Pizza-website-design-ReactJs/static/css/2.94d102f3.chunk.css.map",
+    "static/css/main.d3d422b9.chunk.css.map": "/Domino-s-Pizza-website-design-ReactJs/static/css/main.d3d422b9.chunk.css.map",
+    "static/js/2.5667f28b.chunk.js.LICENSE.txt": "/Domino-s-Pizza-website-design-ReactJs/static/js/2.5667f28b.chunk.js.LICENSE.txt",
+    "static/media/About js.0f8e4333.jpg": "/Domino-s-Pizza-website-design-ReactJs/static/media/About js.0f8e4333.jpg",
+    "static/media/App.css": "/Domino-s-Pizza-website-design-ReactJs/static/media/Header.4a86d906.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0955556.js",
+    "static/css/2.94d102f3.chunk.css",
+    "static/js/2.5667f28b.chunk.js",
+    "static/css/main.d3d422b9.chunk.css",
+    "static/js/main.79a2a1dc.chunk.js"
+  ]
+}
